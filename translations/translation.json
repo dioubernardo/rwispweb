@@ -1,0 +1,96 @@
+{
+	"languages": [
+		"en",
+		"pt-BR"
+	],
+	"translation": [
+		{
+			"en": "WISP Calculator",
+			"pt-BR": "Calculadora WISP"
+		},
+		{
+			"en": "Select the spreadsheet to be processed. The file MUST be in CSV format, and you should remember not to use a thousand separator.",
+			"pt-BR": "Selecione a planilha a ser processada. O arquivo DEVE estar no formato CSV, e você deve lembrar de não usar separador de milhar."
+		},
+		{
+			"en": "If you have any doubts, ",
+			"pt-BR": "Caso tenha dúvidas, "
+		},
+		{
+			"en": "download the example file",
+			"pt-BR": "baixe o arquivo de exemplo"
+		},
+		{
+			"en": "Select spreadsheet",
+			"pt-BR": "Selecione a planilha"
+		},
+		{
+		  "en": "Browse...",
+			"pt-BR": "Selecionar..."
+		},
+		{
+		  "en": "No file selected",
+			"pt-BR": "Nenhum arquivo selecionado"
+		},
+		{
+			"en": "Resolve",
+			"pt-BR": "Resolver"
+		},
+		{
+			"en": "Ranking Result",
+			"pt-BR": "Resultado da Ordenação"
+		},
+		{
+			"en": "Normalized Data",
+			"pt-BR": "Dados Normalizados"
+		},
+		{
+			"en": "Utility Matrix",
+			"pt-BR": "Matriz de Utilidades"
+		},
+		{
+		  "en": "This implementation follows the article DOI 10.1109/TEM.2021.3075783 however, the set of equations used in step 3 is that of the article DOI 10.3390/axioms10040347, following the recommendations of Professor Dragisa Stanujkić.",
+		  "pt-BR": "Esta implementação segue o artigo DOI 10.1109/TEM.2021.3075783, porém no passo 3 o conjunto de equações utilizados é o do artigo com doi 10.3390/axioms10040347, seguindo recomendações do próprio professor Dragisa Stanujkić."
+		},
+		{
+			"en": "The code is open at",
+			"pt-BR": "O código está aberto em"
+		},
+		{
+			"en": "Select a file",
+			"pt-BR": "Selecione um arquivo"
+		},
+		{
+			"en": "Position",
+			"pt-BR": "Posição"
+		},
+		{
+			"en": "Only 'min' or 'max' are valid for criteria optimization",
+			"pt-BR": "Somente 'min' ou 'max' são válidos para otimização dos critérios"
+		},
+		{
+			"en": "The sum of the weights must be equal to 1",
+			"pt-BR": "A soma dos pesos deve ser igual a 1"
+		},
+		{
+			"en": "This file is out of standards. The first line must contain the criteria. See the example file.",
+			"pt-BR": "Este arquivo está fora dos padrões. A primeira linha deve conter os critérios. Veja o arquivo de exemplo."
+		},
+		{
+			"en": "This file is out of standards. The second line must contain the optimizations. See the example file.",
+			"pt-BR": "Este arquivo está fora dos padrões. A segunda linha deve conter as otimizações. Veja o arquivo de exemplo."
+		},
+		{
+			"en": "This file is out of standards. The third line must contain the weights. See the example file.",
+			"pt-BR": "Este arquivo está fora dos padrões. A terceira linha deve conter os pesos. Veja o arquivo de exemplo."
+		},
+		{
+			"en": "This file is out of standards. The fourth line must be empty. See the example file.",
+			"pt-BR": "Este arquivo está fora dos padrões. A quarta linha deve ficar vazia. Veja o arquivo de exemplo."
+		},
+		{
+			"en": "and",
+			"pt-BR": "e"
+		}
+	]
+}
